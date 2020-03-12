@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="523316be-b039-457b-85d8-f9b1c121a14d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cbt/tests/.gitIgnore" beforeDir="false" afterPath="$PROJECT_DIR$/target/.gitIgnore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cbt/tests/NavigationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cbt/tests/NavigationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="523316be-b039-457b-85d8-f9b1c121a14d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gulna\IdeaProjects\Basic Navigation Tests\target" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583980521143</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="My 1st Homework">
+      <created>1583980846321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583980846321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
