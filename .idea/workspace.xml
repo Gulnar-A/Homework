@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="523316be-b039-457b-85d8-f9b1c121a14d" name="Default Changelist" comment="" />
+    <list default="true" id="523316be-b039-457b-85d8-f9b1c121a14d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cbt/tests/.gitIgnore" beforeDir="false" afterPath="$PROJECT_DIR$/target/.gitIgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cbt/tests/NavigationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cbt/tests/NavigationTests.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583980455357</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My 1st Homework">
+      <created>1583980521143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583980521143</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -8,12 +8,13 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class NavigationTests {
-//
+
    // static WebDriver driver;
     public static void main(String[] args) {
 testChrome();
     }
     public static void testChrome(){
+        //
         BrowserFactory.getDriver("chrome");
 WebDriver driver=new ChromeDriver();
 driver.get("https://google.com");
