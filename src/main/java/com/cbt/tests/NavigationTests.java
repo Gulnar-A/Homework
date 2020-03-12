@@ -28,6 +28,7 @@ String titleGoogle=driver.getTitle();
         String title4=driver.getTitle();
         StringUtility.verifyEquals(titleEtsy,title4);
         driver.quit();
+        //
     }
     public static void testFireFox(){
         BrowserFactory.getDriver("firefox");
