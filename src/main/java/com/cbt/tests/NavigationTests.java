@@ -46,7 +46,7 @@ String titleGoogle=driver.getTitle();
         driver.quit();
 
 }
-    public static void testEdge() {
+    public static void testEdge1() {
         BrowserFactory.getDriver("edge");
         WebDriver driver=new EdgeDriver();
         driver.get("https://google.com");
